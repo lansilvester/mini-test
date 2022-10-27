@@ -1,0 +1,22 @@
+.square-style{
+  height:100px;
+  width:100px;
+  border:1px solid green;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.list-container{
+  display: flex;
+  gap: 12px;
+  padding: 32px;
+}
+.center{
+  margin-top:5em;
+  text-align: center;
+}
+
+h1{
+  text-align: center;
+}
